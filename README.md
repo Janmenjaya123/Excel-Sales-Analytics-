@@ -3,9 +3,9 @@
 
  **Project objective:** 
 
-  1.Create a _[customer performance report].(https://github.com/Janmenjaya123/Excel-Sales-Analytics-/blob/main/customer_performance_report.pdf)
+  1.Create a _[customer performance report].(https://github.com/janmenjaya123/Excel-Sales-Analytics-/blob/main/Customer%20Performance%20Report.pdf)
 
-  2.Conduct a comprehensive comparison between _[market performance and sales targets].(https://github.com/Janmenjaya123/Excel-Sales-Analytics-/blob/main/Market_performance%20vs%20Target.pdf)
+  2.Conduct a comprehensive comparison between _[market performance and sales targets].(https://github.com/janmenjaya123/Excel-Sales-Analytics-/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
  **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -17,11 +17,11 @@
 
 **Project objective:** 
 
-   1.Create Profit and Loss (P&L) reports by _[Fiscal Year].(https://github.com/Janmenjaya123/Excel-Sales-Analytics-/blob/main/P%20%26%20L%20By%20Fiscal%20Year.pdf)
+   1.Create Profit and Loss (P&L) reports by _[Fiscal Year].(https://github.com/janmenjaya123/Excel-Sales-Analytics-/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
   
-   2.Create Profit and Loss (P&L) reports by _[Fiscal Months].(https://github.com/Janmenjaya123/Excel-Sales-Analytics-/blob/main/P%20%26%20L%20By%20Fiscal%20Months.pdf)
+   2.Create Profit and Loss (P&L) reports by _[Fiscal Months].(https://github.com/janmenjaya123/Excel-Sales-Analytics-/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
-   3.Create Profit and Loss (P&L) reports by _[Markets].(https://github.com/Janmenjaya123/Excel-Sales-Analytics-/blob/main/Countrywise%20P%20%26%20L%20report.pdf)
+   3.Create Profit and Loss (P&L) reports by _[Markets].(https://github.com/janmenjaya123/Excel-Sales-Analytics-/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
  **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
